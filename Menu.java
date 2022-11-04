@@ -1,5 +1,7 @@
+import java.util.Scanner;
 public class Menu {
+    public static void main(String[] args){
 
-    // TODO Create Attribute of Menu; Name, Category, and Price then Create Setter
+    }
 
 }
